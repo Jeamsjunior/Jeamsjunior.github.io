@@ -1,0 +1,43 @@
+.so{
+	width:100%;
+}
+
+.me{
+	width: 100%;
+}
+.ne{
+	width: 120%;
+}
+
+body{
+	background-image:url(../img/bone.jpg);
+	backround-repeat:yes-repeat;
+	background-attachment:fixed;
+	background-size: 100% 100%;
+}
+
+p{
+	font-size: 40px;
+	fill: color= FFCC99;
+}
+
+h1{
+	font-size: 80px
+}
+
+h1{
+	text-align: center;
+}
+
+.so{ 
+	border: 10px solid gold;
+}
+
+.me{
+	border:  10px solid brown;
+}
+
+.ne{
+	border: 10px solid gold ;
+	
+}
